@@ -1,0 +1,16 @@
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\bin\Debug\Poject anyIdea.exe.config
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\bin\Debug\Poject anyIdea.exe
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\bin\Debug\Poject anyIdea.pdb
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\BackgroundChanger.csproj.AssemblyReference.cache
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\BackgroundChanger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\MainWindow.g.cs
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\App.g.cs
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea_MarkupCompile.cache
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea_MarkupCompile.lref
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\MainWindow.baml
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea.g.resources
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject_anyIdea.Properties.Resources.resources
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\BackgroundChanger.csproj.GenerateResource.cache
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\BackgroundChanger.csproj.CoreCompileInputs.cache
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea.exe
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea.pdb

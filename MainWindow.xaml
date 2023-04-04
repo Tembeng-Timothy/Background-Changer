@@ -1,0 +1,176 @@
+﻿<Window x:Class="BackgroundChanger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BackgroundChanger"
+        mc:Ignorable="d"
+        Title="BigTGuy" Width="500" BorderBrush="Black" BorderThickness="2" ResizeMode="CanResize"
+        Height="400" Icon="logo.png" WindowStartupLocation="CenterScreen">
+<!-- BigTGuy color coding -->
+    <Grid Name="myGrid"  Background="{Binding ElementName=textbox, Path=Text}" >
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top"
+                    Margin="10">
+            <TextBlock Text="Colours" Margin="3" TextAlignment="Center" FontSize="14" FontWeight="Bold"/>
+            <ComboBox Name="comboBox" MinWidth="50" MaxWidth="300" VerticalAlignment="Top" HorizontalAlignment="Left"
+                  MinHeight="20" MaxHeight="100" Text="{Binding ElementName=textbox, Path=Text }"
+                      FontSize="14" FontWeight="Bold">
+                <ComboBoxItem Content="AliceBlue" IsSelected="True"/>
+                <ComboBoxItem Content="AntiqueWhite"/>
+                <ComboBoxItem Content="Aqua"/>
+                <ComboBoxItem Content="Aquamarine"/>
+                <ComboBoxItem Content="Azure"/>
+                <ComboBoxItem Content="Beige"/>
+                <ComboBoxItem Content="Bisque"/>
+                <ComboBoxItem Content="Black"/>
+                <ComboBoxItem Content="BlanchedAlmond"/>
+                <ComboBoxItem Content="Blue"/>
+                <ComboBoxItem Content="BlueViolet"/>
+                <ComboBoxItem Content="Brown"/>
+                <ComboBoxItem Content="BurlyWood"/>
+                <ComboBoxItem Content="CadetBlue"/>
+                <ComboBoxItem Content="Chartreuse"/>
+                <ComboBoxItem Content="Chocolate"/>
+                <ComboBoxItem Content="Coral"/>
+                <ComboBoxItem Content="CornflowerBlue"/>
+                <ComboBoxItem Content="Cornsilk"/>
+                <ComboBoxItem Content="Crimson"/>
+                <ComboBoxItem Content="Cyan"/>
+                <ComboBoxItem Content="DarkBlue"/>
+                <ComboBoxItem Content="DarkCyan"/>
+                <ComboBoxItem Content="DarkGoldenrod"/>
+                <ComboBoxItem Content="DarkGray"/>
+                <ComboBoxItem Content="DarkGreen"/>
+                <ComboBoxItem Content="DarkGreen"/>
+                <ComboBoxItem Content="DarkKhaki"/>
+                <ComboBoxItem Content="DarkMagena"/>
+                <ComboBoxItem Content="DarkOliveGreen"/>
+                <ComboBoxItem Content="DarkOrange"/>
+                <ComboBoxItem Content="DarkOrchid"/>
+                <ComboBoxItem Content="DarkRed"/>
+                <ComboBoxItem Content="DarkSalmon"/>
+                <ComboBoxItem Content="DarkSeaGreen"/>
+                <ComboBoxItem Content="DarkSlateBlue"/>
+                <ComboBoxItem Content="DarkSlateGray"/>
+                <ComboBoxItem Content="DarkTurquoise"/>
+                <ComboBoxItem Content="DarkViolet"/>
+                <ComboBoxItem Content="DeepPink"/>
+                <ComboBoxItem Content="DeepSkyBlue"/>
+                <ComboBoxItem Content="DimGray"/>
+                <ComboBoxItem Content="DodgerBlue"/>
+                <ComboBoxItem Content="Firebrick"/>
+                <ComboBoxItem Content="FloralWhite"/>
+                <ComboBoxItem Content="ForestGreen"/>
+                <ComboBoxItem Content="Fuschia"/>
+                <ComboBoxItem Content="Gainsboro"/>
+                <ComboBoxItem Content="GhostWhite"/>
+                <ComboBoxItem Content="Gold"/>
+                <ComboBoxItem Content="Goldenrod"/>
+                <ComboBoxItem Content="Gray"/>
+                <ComboBoxItem Content="Green"/>
+                <ComboBoxItem Content="GreenYellow"/>
+                <ComboBoxItem Content="Honeydew"/>
+                <ComboBoxItem Content="HotPink"/>
+                <ComboBoxItem Content="IndianRed"/>
+                <ComboBoxItem Content="Indigo"/>
+                <ComboBoxItem Content="Ivory"/>
+                <ComboBoxItem Content="Khaki"/>
+                <ComboBoxItem Content="Lavender"/>
+                <ComboBoxItem Content="LavenderBlush"/>
+                <ComboBoxItem Content="LawnGreen"/>
+                <ComboBoxItem Content="LemonChiffon"/>
+                <ComboBoxItem Content="LightBlue"/>
+                <ComboBoxItem Content="LightCoral"/>
+                <ComboBoxItem Content="LightCyan"/>
+                <ComboBoxItem Content="LightGoldenrodYellow"/>
+                <ComboBoxItem Content="LightGreen"/>
+                <ComboBoxItem Content="LightGray"/>
+                <ComboBoxItem Content="LightPink"/>
+                <ComboBoxItem Content="LightSalmon"/>
+                <ComboBoxItem Content="LightSeaGreen"/>
+                <ComboBoxItem Content="LightSkyBlue"/>
+                <ComboBoxItem Content="LightSlateGray"/>
+                <ComboBoxItem Content="LightSteelBlue"/>
+                <ComboBoxItem Content="LightYellow"/>
+                <ComboBoxItem Content="Lime"/>
+                <ComboBoxItem Content="LimeGreen"/>
+                <ComboBoxItem Content="Linen"/>
+                <ComboBoxItem Content="Magenta"/>
+                <ComboBoxItem Content="Maroon"/>
+                <ComboBoxItem Content="MediumAquamarine"/>
+                <ComboBoxItem Content="MediumBlue"/>
+                <ComboBoxItem Content="MediumOrchid"/>
+                <ComboBoxItem Content="MediumPurple"/>
+                <ComboBoxItem Content="MediumSeaGreen"/>
+                <ComboBoxItem Content="MediumSlateBlue"/>
+                <ComboBoxItem Content="MediumSpringGreen"/>
+                <ComboBoxItem Content="MediumTurquoise"/>
+                <ComboBoxItem Content="MediumVioletRed"/>
+                <ComboBoxItem Content="MidnightBlue"/>
+                <ComboBoxItem Content="MintCream"/>
+                <ComboBoxItem Content="MistyRose"/>
+                <ComboBoxItem Content="Moccasin"/>
+                <ComboBoxItem Content="NavajoWhite"/>
+                <ComboBoxItem Content="Navy"/>
+                <ComboBoxItem Content="OldLace"/>
+                <ComboBoxItem Content="Olive"/>
+                <ComboBoxItem Content="OliveDrab"/>
+                <ComboBoxItem Content="Orange"/>
+                <ComboBoxItem Content="OrangeRed"/>
+                <ComboBoxItem Content="Orchid"/>
+                <ComboBoxItem Content="PaleGoldenrod"/>
+                <ComboBoxItem Content="PaleGreen"/>
+                <ComboBoxItem Content="PaleTurquoise"/>
+                <ComboBoxItem Content="PaleVioletRed"/>
+                <ComboBoxItem Content="PapayaWhip"/>
+                <ComboBoxItem Content="PeachPuff"/>
+                <ComboBoxItem Content="Peru"/>
+                <ComboBoxItem Content="Pink"/>
+                <ComboBoxItem Content="Plum"/>
+                <ComboBoxItem Content="PowderBlue"/>
+                <ComboBoxItem Content="Purple"/>
+                <ComboBoxItem Content="Red"/>
+                <ComboBoxItem Content="RosyBrown"/>
+                <ComboBoxItem Content="RoyalBlue"/>
+                <ComboBoxItem Content="SaddleBrown"/>
+                <ComboBoxItem Content="Salmon"/>
+                <ComboBoxItem Content="SandyBrown"/>
+                <ComboBoxItem Content="SeaGreen"/>
+                <ComboBoxItem Content="Seashell"/>
+                <ComboBoxItem Content="Sienna"/>
+                <ComboBoxItem Content="Silver"/>
+                <ComboBoxItem Content="SkyBlue"/>
+                <ComboBoxItem Content="SlateBlue"/>
+                <ComboBoxItem Content="SlateGray"/>
+                <ComboBoxItem Content="Snow"/>
+                <ComboBoxItem Content="SpringGreen"/>
+                <ComboBoxItem Content="SteelBlue"/>
+                <ComboBoxItem Content="Tan"/>
+                <ComboBoxItem Content="Teal"/>
+                <ComboBoxItem Content="Thistle"/>
+                <ComboBoxItem Content="Tomato"/>
+                <ComboBoxItem Content="Turquoise"/>
+                <ComboBoxItem Content="Violet"/>
+                <ComboBoxItem Content="Wheat"/>
+                <ComboBoxItem Content="White"/>
+                <ComboBoxItem Content="WhiteSmoke"/>
+                <ComboBoxItem Content="Yellow"/>
+                <ComboBoxItem Content="YellowGreen"/>
+
+
+            </ComboBox>
+
+        </StackPanel>
+       
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+            <TextBlock Text="Enter the name of your favourite colour" Margin="0,0,0,20" FontWeight="Bold"/>
+
+            <TextBox Name="textbox"  Text="{Binding ElementName=textbox, Path=Text}"
+                 BorderBrush="red" BorderThickness="5" MinWidth="200" MinHeight="50" 
+                 FontWeight="Bold" TextAlignment="Center" FontSize="24" />
+
+        </StackPanel>
+
+    </Grid>
+</Window>

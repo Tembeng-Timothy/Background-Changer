@@ -1,0 +1,44 @@
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\bin\Debug\Poject anyIdea.exe
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\bin\Debug\Poject anyIdea.pdb
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\obj\Debug\Poject anyIdea.csproj.AssemblyReference.cache
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\obj\Debug\MainWindow.g.cs
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\obj\Debug\App.g.cs
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\obj\Debug\Poject anyIdea_MarkupCompile.cache
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\obj\Debug\Poject anyIdea_MarkupCompile.lref
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\obj\Debug\MainWindow.baml
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\obj\Debug\Poject anyIdea.g.resources
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\obj\Debug\Poject_anyIdea.Properties.Resources.resources
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\obj\Debug\Poject anyIdea.csproj.GenerateResource.cache
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\obj\Debug\Poject anyIdea.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\obj\Debug\Poject anyIdea.exe
+C:\Users\Timothy\Documents\FILE\C#\Poject anyIdea\obj\Debug\Poject anyIdea.pdb
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\bin\Debug\Poject anyIdea.exe
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\bin\Debug\Poject anyIdea.pdb
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\obj\Debug\Poject anyIdea.csproj.AssemblyReference.cache
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\obj\Debug\MainWindow.g.cs
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\obj\Debug\App.g.cs
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\obj\Debug\Poject anyIdea_MarkupCompile.cache
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\obj\Debug\Poject anyIdea_MarkupCompile.lref
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\obj\Debug\MainWindow.baml
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\obj\Debug\Poject anyIdea.g.resources
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\obj\Debug\Poject_anyIdea.Properties.Resources.resources
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\obj\Debug\Poject anyIdea.csproj.GenerateResource.cache
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\obj\Debug\Poject anyIdea.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\obj\Debug\Poject anyIdea.exe
+C:\Users\Timothy\Desktop\FILE\C#\Background Changer\obj\Debug\Poject anyIdea.pdb
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\bin\Debug\Poject anyIdea.exe.config
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\bin\Debug\Poject anyIdea.exe
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\bin\Debug\Poject anyIdea.pdb
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea.csproj.AssemblyReference.cache
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\MainWindow.g.cs
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\App.g.cs
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea_MarkupCompile.cache
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea_MarkupCompile.lref
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\MainWindow.baml
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea.g.resources
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject_anyIdea.Properties.Resources.resources
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea.csproj.GenerateResource.cache
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea.csproj.CoreCompileInputs.cache
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea.exe
+C:\Users\Bigtguy\Desktop\FILE\C#\Old Codes\Background Changer\obj\Debug\Poject anyIdea.pdb
